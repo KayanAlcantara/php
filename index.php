@@ -1,7 +1,8 @@
 <?php
 
-<<<<<<< HEAD
 	echo "Enhaii";
+
+	echo "caguei";
 
 
 ?>
