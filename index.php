@@ -1,7 +1,9 @@
 <?php
 
-<<<<<<< HEAD
+
 	echo "Enhaii";
+
+	echo "Fala pessoal"
 
 
 ?>
