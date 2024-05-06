@@ -3,7 +3,7 @@
 
 	echo "Enhaii";
 
-	echo "Fala pessoal"
+	echo "Fala pessoal";
 
 
 ?>
