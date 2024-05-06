@@ -1,7 +1,7 @@
 <?php
 
 <<<<<<< HEAD
-	echo "Hello world";
+	echo "Enhaii";
 
 
 ?>
