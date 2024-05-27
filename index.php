@@ -3,7 +3,5 @@
 
 	echo "Enhaii";
 
-	echo "caguei";
-	
 ?>
 
